@@ -10,6 +10,10 @@ A 2D Unity game inspired by the Matrix. Each level has a more scary enviornment,
 - Heavy animations using Unity Animation window
 - Following NPC
 
+# Working On
+- Platform styled levels
+- More interactable features
+
 # Disclaimer
 
 These sprites are not my own. All sprites come from itch.io by their respective creators.

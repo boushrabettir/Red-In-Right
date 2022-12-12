@@ -1,6 +1,6 @@
 # Red In Right
 
-A 2D Unity game inspired by the Matrix. Each level has a more scary enviornment, although the surroundings are almost the same.
+A 2D Unity platform styled game inspired by the Matrix.
 
 # Interactables
 
